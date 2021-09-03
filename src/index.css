@@ -1,0 +1,19 @@
+body{
+   
+
+ align-items: center;
+ 
+    margin: auto;
+}
+.btn{
+    width:5% !important;
+}
+
+
+.imgbg{
+    background-image:url('https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079__340.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 500px;
+}
